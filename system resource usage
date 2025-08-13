@@ -1,0 +1,77 @@
+details before 
+
+vm1 
+Timestamp                  CounterSamples
+---------                  --------------
+8/13/2025 12:08:31 AM      \\windows-virtual\processor(_total)\% processor time :
+                           0.808825146609238
+
+                           \\windows-virtual\memory\available mbytes :
+                           1059
+
+                           \\windows-virtual\physicaldisk(_total)\disk bytes/sec :
+                           49212.4279402679
+
+vm2
+
+Timestamp                  CounterSamples
+---------                  --------------
+8/13/2025 12:01:12 AM      \\windows-vm2\processor(_total)\% processor time :
+                           0.783879227200479
+
+                           \\windows-vm2\memory\available mbytes :
+                           870
+
+                           \\windows-vm2\physicaldisk(_total)\disk bytes/sec :
+                           243300.095824381
+
+vm3
+Timestamp                  CounterSamples
+---------                  --------------
+8/13/2025 12:00:37 AM      \\windows-virtual\processor(_total)\% processor time :
+                           5.48695321281121
+
+                           \\windows-virtual\memory\available mbytes :
+                           909
+
+                           \\windows-virtual\physicaldisk(_total)\disk bytes/sec :
+                           192362.86107381
+
+
+details after
+vm1 
+
+Timestamp                  CounterSamples
+---------                  --------------
+8/13/2025 12:14:00 AM      \\windows-virtual\processor(_total)\% processor time :
+                           10.185260160968
+
+                           \\windows-virtual\memory\available mbytes :
+                           1115
+
+                           \\windows-virtual\physicaldisk(_total)\disk bytes/sec :
+                           1447450.66774089
+
+vm2 
+Timestamp                  CounterSamples
+---------                  --------------
+8/13/2025 12:15:16 AM      \\windows-vm2\processor(_total)\% processor time :
+                           0.807883083392114
+
+                           \\windows-vm2\memory\available mbytes :
+                           1108
+
+                           \\windows-vm2\physicaldisk(_total)\disk bytes/sec :
+                           74372.1670880161
+
+vm3
+Timestamp                  CounterSamples
+---------                  --------------
+8/13/2025 12:17:33 AM      \\windows-virtual\processor(_total)\% processor time :
+                           1.63401207322277
+
+                           \\windows-virtual\memory\available mbytes :
+                           1135
+
+                           \\windows-virtual\physicaldisk(_total)\disk bytes/sec :
+                           57850.3117131446
